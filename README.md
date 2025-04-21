@@ -14,3 +14,5 @@ Features + Tools/Technologies:
 - Use Firebase authentication for user sign in (this is a reach/optional goal)
 
 Timeline: Build frontend on 4/28, build backend to store user info 4/30, connect to API and finish up 5/1. Pair programming for the whole project. 
+
+Figma link: https://www.figma.com/design/GCuOBaWNrryjR0pIcoonf1/Untitled?node-id=0-1
