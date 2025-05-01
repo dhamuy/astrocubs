@@ -1,0 +1,48 @@
+body {
+  font-family: 'Orbitron', sans-serif;
+  background-color: #0b0c2a;
+  color: #f0f0f0;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #ffc107;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #1f1f3f;
+  color: #ffffff;
+}
+
+img {
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #1f1f3f;
+  border-radius: 10px;
+}
+
+p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#root {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+}
